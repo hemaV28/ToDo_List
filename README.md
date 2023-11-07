@@ -1,2 +1,2 @@
-# ToDo_List
-This repository for ToDo_List 
+# todo_list
+This repository for todo_list 
